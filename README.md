@@ -1,5 +1,7 @@
 <H1 align="center">PojavLauncher</H1>
-
+ this project is not associated with pojavteam
+ this project is not associated with pojavteam 
+ this is just a x86 fork
 <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
 
 [![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/workflows/Android%20CI/badge.svg)](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
